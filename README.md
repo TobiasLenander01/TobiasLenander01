@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TobiasLenander01
-- 👀 I’m interested in programming and development
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently studying Information Systems
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me - tobias.lenander@outlook.com
 
