@@ -7,7 +7,7 @@ I'm a developer and QA tester based in **Lund, Sweden**. I study Information Sys
 
 **Languages:** Java · C# · Python · SQL · TypeScript<br>
 **Testing:** stress testing · firmware update testing · system log analysis<br>
-**Web & systems:** Next.js · React · PostgreSQL · Linux · Raspberry Pi
+**Web & systems:** Next.js · React · Tailwind CSS · PostgreSQL · Linux · Raspberry Pi
 
 #### Projects
 
@@ -15,6 +15,7 @@ I'm a developer and QA tester based in **Lund, Sweden**. I study Information Sys
 |---|---|---|
 | [Videntium 3D Viewer](https://github.com/TobiasLenander01/videntium-3d-viewer) · [demo](https://videntium.netlify.app/) | Browser-based 3D viewer for .ply and .splat files, with Gaussian Splatting rendering optimized for laptops and phones | TypeScript, Three.js |
 | [LundaLife](https://github.com/TobiasLenander01/LundaLife) · [demo](https://lundalife.netlify.app/) | Upcoming student events in Lund. A Python service on a Raspberry Pi fetches events from the STUK API into PostgreSQL | Next.js, Python, PostgreSQL |
+| [Opimius](https://opimius.com/) | Freelance client website for a wine importer near Malmö | Next.js, TypeScript, Tailwind CSS |
 | [ATAK NATO Organization](https://github.com/TobiasLenander01/atak-nato-organization) | ATAK-CIV plugin with a dynamic NATO org chart, built at the Swedish Armed Forces hackathon 2025 | Java, Android |
 | [Arctic Byte Project Manager](https://github.com/TobiasLenander01/arctic-byte-project-manager) | Database course assignment | Java |
 | [Viking Express Logistics Manager](https://github.com/TobiasLenander01/viking-express-logistics-manager) | First-semester exam project at Lund University | Java, JavaFX |
