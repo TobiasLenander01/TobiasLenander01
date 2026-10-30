@@ -3,7 +3,7 @@
 I'm a developer and QA tester based in **Lund, Sweden**. I study Information Systems at Lund University (graduating June 2027) and I'm looking for **developer and QA roles in the Lund–Malmö area**.
 
 - **Software QA at Axis Communications:** stress testing firmware updates for network speakers, troubleshooting Linux-based PoE systems
-- **Developer at Lundakarnevalen:** built the internal registration system used by ~8000 carnival workers (Next.js, TypeScript) in a 40-person Agile team
+- **Developer at Lundakarnevalen:** co-developed the internal registration system used by ~8000 carnival workers (Next.js, TypeScript) in a 40-person team
 
 **Languages:** Java · C# · Python · SQL · TypeScript<br>
 **Testing:** stress testing · firmware update testing · system log analysis<br>
