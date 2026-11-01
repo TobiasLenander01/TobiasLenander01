@@ -13,6 +13,7 @@ I'm a developer and QA tester based in **Lund, Sweden**. I study Information Sys
 
 | Project | What it is | Stack |
 |---|---|---|
+| [Net Sentinel](https://github.com/TobiasLenander01/netsentinel) | Desktop app for an IT security team: incidents, devices and AI-generated action reports. Group project at Lund University | C#, Avalonia, EF Core, Azure SQL |
 | [Videntium 3D Viewer](https://github.com/TobiasLenander01/videntium-3d-viewer) · [demo](https://videntium.netlify.app/) | Browser-based 3D viewer for .ply and .splat files, with Gaussian Splatting rendering optimized for laptops and phones | TypeScript, Three.js |
 | [LundaLife](https://github.com/TobiasLenander01/LundaLife) · [demo](https://lundalife.netlify.app/) | Upcoming student events in Lund. A Python service on a Raspberry Pi fetches events from the STUK API into PostgreSQL | Next.js, Python, PostgreSQL |
 | [Opimius](https://opimius.com/) | Freelance client website for a wine importer near Malmö | Next.js, TypeScript, Tailwind CSS |
